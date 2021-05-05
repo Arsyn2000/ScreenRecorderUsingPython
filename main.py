@@ -1,5 +1,4 @@
 import datetime
-
 from PIL import ImageGrab
 import numpy as np
 import cv2
